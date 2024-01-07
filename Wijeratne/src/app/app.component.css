@@ -1,0 +1,21 @@
+.rettangolo {
+    height: 400px;
+    width: 350px;
+    background-color: rgb(255, 144, 64);
+}
+.rettangolo2 {
+    padding-left: 60px;
+    padding-top: 40px;
+    background-color: rgb(255, 144, 64);
+}
+.p1 {
+    font-family: 'Trebuchet MS', sans-serif;;
+}
+
+.span1 {
+    color: red;
+}
+
+
+
+
